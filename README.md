@@ -1,5 +1,7 @@
 Machine Learning in Credit Scoring
+
 Description:
+
 Implement supervised machine learning 
 techniques in order to further
 understanding the process in which a 
